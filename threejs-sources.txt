@@ -1,0 +1,23 @@
+Sources List for Three.js
+List made in January 3, 2024. Update will be indicated.
+
+
+Three.js Documentation https://threejs.org/
+
+Bruno Simon Courses - https://threejs-journey.com/
+
+Dhiraj Yadav Course - https://www.udemy.com/course/threejs-the-complete-course/
+
+Flanniganable - 62 videos - https://www.youtube.com/playlist?list=PLuywqn95st9TIHeayZpYUjMi8AfeOeicH
+
+Red Stapler - 17 videos - https://www.youtube.com/playlist?list=PLbu98QxRH81KkLTN00OXhD8Y-pRVgTCnM 
+
+Weal Yasmina  - 64 videos - https://www.youtube.com/playlist?list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho
+
+SimonDev - 18 videos - https://www.youtube.com/playlist?list=PLRL3Z3lpLmH0aqLDbfh0ZmnDkpXPDnTau
+
+Chart JS - 9 videos - https://www.youtube.com/playlist?list=PLc1g3vwxhg1Wy9iBIXgQIayx-ud_XrbA7
+
+Sonar Systems - 10 videos - https://www.youtube.com/playlist?list=PLRtjMdoYXLf6mvjCmrltvsD0j12ZQDMfE
+
+
