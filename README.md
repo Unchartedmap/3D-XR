@@ -1,4 +1,4 @@
-# 3D_XR_Presentation_Project
+# 3D_Storytelling_Project
 
 AIM: This project is for displaying the opportunities of 3D storytelling. 
 
