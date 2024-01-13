@@ -1,2 +1,5 @@
 /.DS_Store
 /.env.development
+threejs-sources.txt
+package-lock.json
+node_modules/*

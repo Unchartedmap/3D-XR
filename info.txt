@@ -1,1 +1,0 @@
-This is for displaying how powerful is Three.js for 3D presentations.

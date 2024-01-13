@@ -1,0 +1,16 @@
+{
+  "name": "3d-xr",
+  "version": "1.0.0",
+  "description": "AIM: This project is for displaying the opportunities of 3D storytelling.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.0.11"
+  }
+}
