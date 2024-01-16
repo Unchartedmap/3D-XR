@@ -1,1 +1,3 @@
-console.log('page fine')
+import * as THREE from 'three'
+
+console.log(THREE)
